@@ -2,6 +2,12 @@
 
 This project provides tools for 3D mesh volume calculation, scaling, and analysis. It includes functions to calculate the voxel volume of a 3D mesh from an OBJ file, scale a 3D mesh to a target volume, calculate the compactness of a 3D voxel array, and find the number of positive voxels. The project also implements the Hungarian algorithm for optimal assignment, which can be useful in comparing different 3D models (The ones in the "Combined CAD Objects"). These tools can be useful in various fields such as computer graphics, game development, 3D printing, and computational geometry.
 
+# Authors
+
+- Jose Dominguez - *UAA MCCMA* 
+- Daniel Mares - *UAA MCCMA*
+- Fernando Ruiz - *UAA MCCMA*
+
 # 3D Mesh Volume Calculation and Scaling (volumen.py file)
 
 ## Dependencies
