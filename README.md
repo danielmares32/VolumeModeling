@@ -35,7 +35,7 @@ except Exception as e:
     
 ```
 
-# 3D Mesh Processing and Analysis
+# 3D Mesh Processing and Analysis (alg.py)
 
 ## Dependencies
 - numpy
